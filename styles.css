@@ -1,0 +1,71 @@
+@import url('https://themes.googleusercontent.com/fonts/css?kit=3qINvnjb346LubKDfLRn69t6G6Z1RrRfgULZ1AHo7mPOfsfM6rvuuu7h1pY3r_-A');
+body {
+    padding: 20px;
+    color: #353744;
+    font-size: 14px;
+    font-family: "Proxima Nova"
+}
+
+p {
+    margin: 0;
+}
+
+.image-container {
+    padding-bottom: 16px;
+}
+
+.dog-info {
+    line-height: 1.5;
+}
+
+.content {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    max-width: 700px;
+    margin: auto;
+}
+
+.content .col {
+    margin: 10px;
+}
+
+.label {
+    color: #00ab44;
+    font-weight: 700
+}
+
+.bar {
+    width: 60px;
+    height: 3px;
+    background: #3fc67f;
+}
+
+.info {
+    margin-bottom: 15px;
+}
+
+.title {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    color: #00ab44;
+    font-weight: 700;
+    font-size: 64px;
+}
+
+.subtitle {
+    padding-top: 0px;
+    color: #353744;
+    font-size: 32px;
+    padding-bottom: 10px;
+    line-height: 40px;
+}
+
+.heading {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    line-height: 12px;
+    color: #00ab44;
+    font-weight: 700;
+    font-size: 20px;
+}
